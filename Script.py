@@ -7,7 +7,7 @@ class script(object):
     
 ɪ ᴀᴍ ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀɴᴅ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ ᴇᴀʀɴ ᴜɴʟɪᴍɪᴛᴇᴅ ᴍᴏɴᴇʏ...💸</b>"""
 
-    CLONE_START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a></blockquote>
+    CLONE_START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/auto_filter_ak_bot></a>ᴀᴋ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ</blockquote>
     
 ɪ ᴀᴍ ᴀᴅᴠᴀɴᴄᴇ ᴀɴᴅ ᴘᴏᴡᴇʀғᴜʟʟ ᴀᴜᴛᴏғɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴀᴍᴀᴢɪɴɢ ғᴇᴀᴛᴜʀᴇs ᴊᴜsᴛ ᴛʏᴘᴇ ᴡʜᴀᴛ ʏᴏᴜ ᴡᴀɴᴛ ᴛʜᴇɴ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ 💘</b>"""
     
@@ -29,7 +29,7 @@ class script(object):
     
 ‣ ᴍʏ ɴᴀᴍᴇ : {}
 ‣ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
-‣ ᴄʟᴏɴᴇᴅ ғʀᴏᴍ : <a href=https://t.me/{}>{}</a>
+‣ ᴄʟᴏɴᴇᴅ ғʀᴏᴍ : <a href=http://t.me/auto_filter_ak_bot>ᴀᴋ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ</a>
 ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
 ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -46,7 +46,7 @@ class script(object):
     SUBSCRIPTION_TXT = """
 <b>ʀᴇғᴇʀʀᴇ ʏᴏᴜʀ ʟɪɴᴋ ᴛᴏ ʏᴏᴜʀ ғʀɪᴇɴᴅs, ғᴀᴍɪʟʏ, ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ɢʀᴏᴜᴘ ᴛᴏ ɢᴇᴛ ғʀᴇᴇ ᴘʀᴇᴍɪᴜᴍ ғᴏʀ {}
 
-ʀᴇғᴇʀᴀʟ ʟɪɴᴋ - https://telegram.me/{}?start=VJ-{}
+ʀᴇғᴇʀᴀʟ ʟɪɴᴋ - https://telegram.me/auto_filter_ak_bot?start=ᴀᴋ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ
 
 ɪғ {} ᴜɴɪǫᴜᴇ ᴜsᴇʀ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴡɪᴛʜ ʏᴏᴜʀ ʀᴇғᴇʀᴀʟ ʟɪɴᴋ ᴛʜᴇɴ ʏᴏᴜ ᴡɪʟʟ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴀᴅᴅᴇᴅ ɪɴ ᴘʀᴇᴍɪᴜᴍ ʟɪsᴛ.
 
@@ -75,7 +75,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/vjupdates2/3)</code>
+<code>[ᴀᴋ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ](buttonurl:https://t.me/auto_filter_ak_bot)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -107,9 +107,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
- <b>✯ Maintained by : <a href={}>Owner</a></b>
+ <b>✯ 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : <a href=http://t.me/anujedits76>𝐀𝐧𝐮𝐣 𝐊𝐮𝐦𝐚𝐫</a></b>
   
- <b>✯ Join here : <a href={}>Update Channel</a></b> 
+ <b>✯ ᴊᴏɪɴ ʜᴇʀᴇ : <a href=https://t.me/log_channel_a>ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -491,7 +491,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 
  எப்படி மற்றும் என்ன செய்ய வேண்டும்
 
- படி 1: இந்த VJ-FILTER-BOT போட் உங்கள் குழுவை நிர்வாகியாக்குங்கள்
+ படி 1: இந்த ᴀᴋ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ போட் உங்கள் குழுவை நிர்வாகியாக்குங்கள்
 
  படி 2: உங்கள் இணையதளம் மற்றும் API ஐச் சேர்க்கவும்
 
@@ -518,7 +518,7 @@ Hey <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a>
 
  How and what to do
 
- Step 1: Administer this VJ-FILTER-BOT bot to your group
+ Step 1: Administer this ᴀᴋ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ to your group
 
  Step 2: Add your website and API
 
@@ -545,7 +545,7 @@ Also your tutorial will be Added Your Group..."""
 
  ఎలా మరియు ఏమి చేయాలి
 
- దశ 1: ఈ VJ-FILTER-BOT బాట్‌ని మీ సమూహానికి నిర్వహించండి
+ దశ 1: ఈ ᴀᴋ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ బాట్‌ని మీ సమూహానికి నిర్వహించండి
 
  దశ 2: మీ వెబ్‌సైట్ మరియు APIని జోడించండి
 
@@ -626,7 +626,7 @@ Also your tutorial will be Added Your Group..."""
 
  کیسے اور کیا کرنا ہے۔
 
- مرحلہ 1: اپنے گروپ میں اس VJ-FILTER-BOT بوٹ کا انتظام کریں۔
+ مرحلہ 1: اپنے گروپ میں اس ᴀᴋ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ بوٹ کا انتظام کریں۔
 
  مرحلہ 2: اپنی ویب سائٹ اور API شامل کریں۔
 
@@ -653,7 +653,7 @@ Also your tutorial will be Added Your Group..."""
 
  કેવી રીતે અને શું કરવું
 
- પગલું 1: તમારા જૂથમાં આ VJ-FILTER-BOT બોટનું સંચાલન કરો
+ પગલું 1: તમારા જૂથમાં આ ᴀᴋ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ બોટનું સંચાલન કરો
 
  પગલું 2: તમારી વેબસાઇટ અને API ઉમેરો
 
@@ -705,7 +705,7 @@ Also your tutorial will be Added Your Group..."""
 
  কিভাবে এবং কি করতে হবে
 
- ধাপ 1: আপনার গ্রুপে এই VJ-FILTER-BOT বট পরিচালনা করুন
+ ধাপ 1: আপনার গ্রুপে এই ᴀᴋ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ বট পরিচালনা করুন
 
  ধাপ 2: আপনার ওয়েবসাইট এবং API যোগ করুন
 

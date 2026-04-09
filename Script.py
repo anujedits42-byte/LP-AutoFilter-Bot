@@ -23,17 +23,17 @@ class script(object):
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
 ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
 ‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://heroku.com'>ʜᴇʀᴏᴋᴜ</a> 
-‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
+‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]</b>
 
     CLONE_ABOUT_TXT = """<b><blockquote>⍟───[ ᴍʏ ᴀʙᴏᴜᴛ ]───⍟</blockquote>
     
 ‣ ᴍʏ ɴᴀᴍᴇ : {}
 ‣ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
-‣ ᴄʟᴏɴᴇᴅ ғʀᴏᴍ : ‣ ᴄʟᴏɴᴇᴅ ғʀᴏᴍ : <a href=http://t.me/auto_filter_ak_bot>ᴀᴋ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ</a>
+‣ ᴄʟᴏɴᴇᴅ ғʀᴏᴍ : ‣ ᴄʟᴏɴᴇᴅ ғʀᴏᴍ : <a href="https://t.me/auto_filter_ak_bot">ᴀᴋ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ</a>
 ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
 ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
-‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
+‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]</b>
 
     CLONE_TXT = """<b>🌟 <u>CLONE MODE</u>
 
@@ -46,7 +46,7 @@ class script(object):
     SUBSCRIPTION_TXT = """
 <b>ʀᴇғᴇʀʀᴇ ʏᴏᴜʀ ʟɪɴᴋ ᴛᴏ ʏᴏᴜʀ ғʀɪᴇɴᴅs, ғᴀᴍɪʟʏ, ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ɢʀᴏᴜᴘ ᴛᴏ ɢᴇᴛ ғʀᴇᴇ ᴘʀᴇᴍɪᴜᴍ ғᴏʀ {}
 
-ʀᴇғᴇʀᴀʟ ʟɪɴᴋ - https://telegram.me/auto_filter_ak_bot?start=ᴀᴋ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ
+ʀᴇғᴇʀᴀʟ ʟɪɴᴋ - https://telegram.me/auto_filter_ak_bot?start=ref_ak
 
 ɪғ {} ᴜɴɪǫᴜᴇ ᴜsᴇʀ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴡɪᴛʜ ʏᴏᴜʀ ʀᴇғᴇʀᴀʟ ʟɪɴᴋ ᴛʜᴇɴ ʏᴏᴜ ᴡɪʟʟ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴀᴅᴅᴇᴅ ɪɴ ᴘʀᴇᴍɪᴜᴍ ʟɪsᴛ.
 
@@ -107,7 +107,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
- <b>✯ 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : <a href=http://t.me/anujedits76>𝐀𝐧𝐮𝐣 𝐊𝐮𝐦𝐚𝐫</a></b>
+ <b>✯ 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : <a href=https://t.me/anujedits76>𝐀𝐧𝐮𝐣 𝐊𝐮𝐦𝐚𝐫</a></b>
   
  <b>✯ ᴊᴏɪɴ ʜᴇʀᴇ : <a href=https://t.me/log_channel_a>ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ</a></b> 
   
